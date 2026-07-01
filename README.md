@@ -264,7 +264,7 @@ MIT License – feel free to use this project for learning and portfolio purpose
 
 ## 📬 Contact
 
-**Your Name** – [edubioemmanuel4@gmail.com](mailto:edubioemmanuel4@gmail.com)  
+**Emmanuel Edubio** – [edubioemmanuel4@gmail.com](mailto:edubioemmanuel4@gmail.com)  
 GitHub: [@your-username](https://github.com/edubio228)
 
 ---

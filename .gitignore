@@ -1,0 +1,46 @@
+# ========================================
+# 1. SECRETS (MOST IMPORTANT!)
+# ========================================
+.env                # <-- THIS KEEPS YOUR API KEY SAFE!
+*.env
+.env.*
+!.env.example
+
+# ========================================
+# 2. Python Cache & Virtual Environments
+# ========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+env/
+.venv/
+venv.bak/
+
+# ========================================
+# 3. IDE & OS Files
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ========================================
+# 4. Docker & Logs
+# ========================================
+*.log
+docker-compose.override.yml
+.dockerignore
+
+# ========================================
+# 5. Other Temp Files
+# ========================================
+*.tmp
+*.bak
+*.pid
